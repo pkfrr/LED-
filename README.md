@@ -14,7 +14,7 @@ void loop() {
 💐💐💐💐💐
 ///<iframe name="xxx" width="100%" height="100%" frameborder="0" src="homeN.html"></iframe>///
 
-<a href="homeN1.html" target="xxx">หน้าหลัก</a>
+//////<a href="homeN1.html" target="xxx">หน้าหลัก</a>///////
 
 💐💐💐
 
