@@ -11,19 +11,11 @@ void setup() {
 
 void loop() {
   // อ่านค่า Potentiometer (0-1023) แปลงเป็น 0-255 ส่งให้ LED
-  int brightness = map(analogRead(potPin), 0, 1023, 0, 255);
-  
-  // ส่งค่าความสว่างไปให้ LED
-  analogWrite(ledPin, brightness);
-  
-  // หน่วงเวลา 100 มิลลิวินาที
-  delay(100);
-}
-
+💐💐💐💐💐
 <iframe name="xxx" width="100%" height="100%" frameborder="0" src="homeN.html"></iframe>
 
 <a href="homeN1.html" target="xxx">หน้าหลัก</a>
 
-
+💐💐💐
 
 
